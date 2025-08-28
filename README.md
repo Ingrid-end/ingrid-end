@@ -1,8 +1,7 @@
 <h1 align="center">Olá! Eu sou a Ingrid Albuquerque 👩‍💻</h1>
 
 <p align="center">
-Desenvolvedora Front-End Júnior focada em criar experiências web modernas, acessíveis e performáticas.<br/>
-Atualmente em transição internacional, buscando oportunidades de crescimento e novos desafios.
+Desenvolvedora Front-End focada em criar experiências web modernas, acessíveis e performáticas.<br/>
 </p>
 
 ---
