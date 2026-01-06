@@ -31,8 +31,8 @@ Desenvolvedora Front-End focada em criar experiências web modernas, acessíveis
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ingrid-end&show_icons=true&theme=default" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ingrid-end&layout=compact&theme=default" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ingrid-end&show_icons=true&theme=default" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ingrid-end&layout=compact&theme=default" alt="Linguagens mais usadas" />
 </div>
 
 ---
